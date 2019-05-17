@@ -9,14 +9,18 @@ class Solution {
      * @return
      */
     public int largestOverlap(int[][] A, int[][] B) {
+        int n = A.length;
+
+
         return 0;
     }
-
 }
 
 public class Main {
-
     public static void main(String[] args) {
-        System.out.println("hello");
+        int[][] A = { { 1, 1, 0 }, { 0, 1, 0 }, { 0, 1, 0 } };
+        int[][] B = { { 0, 0, 0 }, { 0, 1, 1 }, { 0, 0, 1 } };
+
+        System.out.println(B.length);
     }
 }
