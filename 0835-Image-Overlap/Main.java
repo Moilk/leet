@@ -6,13 +6,19 @@ class Solution {
 
         for (int x = -N_1; x <= N_1; x++) {
             for (int y = -N_1; y <= N_1; y++) {
-                int sx = Math.max(0, x);
-                int ex = Math.min(N_1 + x, N_1);
-                int sy = Math.max(0, y);
-                int ey = Math.min(N_1 + y, N_1);
+                int bsx = Math.max(0, x);
+                int bex = Math.min(N_1 + x, N_1);
+                int bsy = Math.max(0, y);
+                int bey = Math.min(N_1 + y, N_1);
+
+                // 减5ms
+                if ((bex - bsx + 1) * (bey - bsy + 1) <= res) {
+                    continue;
+                }
+
                 int count = 0;
-                for (int i = sx; i <= ex; i++) {
-                    for (int j = sy; j <= ey; j++) {
+                for (int i = bsx; i <= bex; i++) {
+                    for (int j = bsy; j <= bey; j++) {
                         if (B[i][j] == 1 && A[i - x][j - y] == 1) {
                             count++;
                         }
