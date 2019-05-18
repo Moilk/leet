@@ -25,3 +25,6 @@ hs_err_pid*
 # mac系统垃圾文件
 ._*
 .DS_Store
+
+# vscode文件夹
+.vscode/
