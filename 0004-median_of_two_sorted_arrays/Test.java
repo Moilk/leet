@@ -16,7 +16,7 @@ public class Test{
 			{ 0, 3, 4, 6, 7, 10, 11, 15 },
 		};
 	
-		MergeSolution solution = new MergeSolution();
+		FastSolution solution = new FastSolution();
 		for (int i = 0; i < Math.min(nums1.length, nums2.length); i++) {
 			System.out.println(solution.findMedianSortedArrays(nums1[i], nums2[i]));
 		}
