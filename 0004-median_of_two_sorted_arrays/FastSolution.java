@@ -23,12 +23,13 @@ public class FastSolution {
 				int maxLeft = 0;
 				if (i == 0) {
 					maxLeft = B[j - 1];
-				} else if(j == 0){
+				} else if (j == 0) {
 					maxLeft = A[i - 1];
 				} else {
 					maxLeft = Math.max(A[i - 1], B[j - 1]);
 				}
-				if( (n + m) % 2 == 1){
+
+				if ((m + n) % 2 == 1){
 					return maxLeft;
 				}
 
@@ -41,7 +42,7 @@ public class FastSolution {
 					minRight = Math.min(A[i], B[j]);
 				}
 
-				return (maxLeft + minRight) / 2.0;
+				return maxLeft + (minRight - maxLeft) / 2.0;
 			}
 		}
 
