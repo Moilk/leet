@@ -4,7 +4,7 @@ class ListNode {
     ListNode(int x) { val = x; }
 }
 
-public class Solution {
+public class RecursiveSolution {
 	ListNode lf;
 	boolean isStop;
 

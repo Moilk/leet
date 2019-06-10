@@ -9,7 +9,7 @@ class ListNode {
 public class StackSolution {
 
     public ListNode reverseBetween(ListNode head, int m, int n) {
-        Deque<ListNode> stack = new ArrayDeque<>();
+        Deque<ListNode> stack = new LinkedList<>();
 
         ListNode hHead = new ListNode(0);
         hHead.next = head;
