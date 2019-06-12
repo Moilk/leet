@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Solution {
-	static int[] asciiCount = new int[256];
+	int[] asciiCount = new int[256];
 
     public List<Integer> findAnagrams(String s, String p) {
     	List<Integer> res = new ArrayList<>();
@@ -32,6 +32,6 @@ class Solution {
 
     public static void main(String args[]) {
     	Solution s = new Solution();
-    	System.out.println(s.findAnagrams("abba", "ab"));
+    	System.out.println(s.findAnagrams("abccdcdcdcdcdccdba", "ab"));
     }
 }
