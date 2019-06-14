@@ -1,5 +1,10 @@
 import java.util.*;
 
+/**
+ * [分割等和子集]
+ * 
+ * 方案：01背包放满问题
+ */
 class Solution {
     public boolean canPartition(int[] nums) {
     	if(nums.length == 0)	return true;
