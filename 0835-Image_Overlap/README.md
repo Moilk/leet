@@ -1,4 +1,6 @@
-# 835. 图像重叠
+#  835. 图像重叠
+
+![难度](https://img.shields.io/badge/难度-中等-GoldenRod.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-数组-violet.svg?style=flat)
 
 ---
 
@@ -38,6 +40,10 @@ B = [[0,0,0],
 1. `1 <= A.length = A[0].length = B.length = B[0].length <= 30`
 2. `0 <= A[i][j], B[i][j] <= 1`
 
+> 来源：力扣（LeetCode）
+链接：https://leetcode-cn.com/problems/contains-duplicate-ii
+著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
 ---
 
 ## 题解
@@ -59,3 +65,4 @@ bey = min(N - 1 + y, N - 1);
 设 `(i, j)` 为图像 B 有效范围内的一点，则其对应图像 A 上的点为 `(i - x, j - y)`。
 
 我们要做的就是遍历所有 `(x, y)`（这需要两层循环），然后在循环里边再遍历所有有效范围内的点（又需要两层循环），在最里层循环中统计重叠的点数，找到所有 `(x, y)` 中最大的重叠数，就是最后的结果
+

@@ -2,6 +2,10 @@ import java.util.*;
 
 /**
  * [回旋镖的数量]
+ * 
+ * 方案：发现关键在中间那个点上，
+ *      建立一个map(所有点到中间那个点的距离 -> 相同距离的点的个数)
+ *      这样复杂度就变成了O(n^2)，空间复杂度O(n)
  */
 class Solution {
     public int numberOfBoomerangs(int[][] points) {
