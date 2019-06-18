@@ -1,6 +1,6 @@
 # 219. 存在重复元素 II
 
-![难度](https://img.shields.io/badge/难度-简单-green.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-查找表+滑动窗口-violet.svg?style=flat)
+![难度](https://img.shields.io/badge/难度-简单-5cb85c.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-查找表+滑动窗口-violet.svg?style=flat)
 
 ---
 
