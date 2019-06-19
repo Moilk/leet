@@ -1,6 +1,6 @@
 # 1. 两数之和
 
-![难度](https://img.shields.io/badge/难度-简单-5cb85c.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-查找表-violet.svg?style=flat)
+![难度](https://img.shields.io/badge/难度-简单-5cb85c.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-set/map-violet.svg?style=flat)
 
 ---
 
