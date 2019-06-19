@@ -8,6 +8,6 @@ My LeetCode Solution
 | :--: | :-- |
 | 数组 |  |
 | 双指针 |  |
-| 滑动窗口 |  |
-| 查找表 | [1](./0001-Two_Sum) |
-| 链表 |  |
+| 滑动窗口 | [3](./0003-Longest_Substring_Without_Repeating_Characters) |
+| 查找表 | [1](./0001-Two_Sum)|
+| 链表 | [2](./0002-Add_Two_Numbers) |
