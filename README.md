@@ -4,6 +4,18 @@
 
 My LeetCode Solution
 
+　　　　　　mo  
+　　　　　oi  
+　　　　ilkmoi  
+　　　lk　　　oi  
+　　km　　　　　oi  
+　mo  
+oilk　　kmoilkmoilkm  
+　il  
+　　lk　　　　　mo  
+　　　km　　　il  
+　　　　oilkm  
+
 ```
   _              _    
  | |    ___  ___| |_  
