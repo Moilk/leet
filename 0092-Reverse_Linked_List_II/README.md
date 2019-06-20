@@ -12,12 +12,11 @@
 
 **示例:**
 
-**输入:** `1->2->3->4->5->NULL, m = 2, n = 4`
-
-**输出:** `1->4->3->2->5->NULL`
+&emsp;**输入:** `1->2->3->4->5->NULL, m = 2, n = 4`  
+&emsp;**输出:** `1->4->3->2->5->NULL`
 
 > 来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/reverse-linked-list-ii
-著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 链接：https://leetcode-cn.com/problems/reverse-linked-list-ii
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
 ---
