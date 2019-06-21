@@ -44,8 +44,8 @@
 &emsp;此外，"bbaA"也是一个有效的答案，但"Aabb"是不正确的。  
 &emsp;注意'A'和'a'被认为是两种不同的字符。
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/sort-characters-by-frequency
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/sort-characters-by-frequency  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---

@@ -18,8 +18,8 @@
 
 如果你已经完成了 `O(n)` 时间复杂度的解法, 请尝试 `O(n log n)` 时间复杂度的解法。
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/minimum-size-subarray-sum
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/minimum-size-subarray-sum  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---

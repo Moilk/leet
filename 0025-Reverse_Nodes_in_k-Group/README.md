@@ -25,8 +25,8 @@ k 是一个正整数，它的值小于或等于链表的长度。
 - 你的算法只能使用常数的额外空间。
 - 你不能只是单纯的改变节点内部的值，而是需要实际的进行节点交换。
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/reverse-nodes-in-k-group
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/reverse-nodes-in-k-group  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---

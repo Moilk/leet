@@ -19,9 +19,9 @@
 1. 必须在原数组上操作，不能拷贝额外的数组。
 2. 尽量减少操作次数。
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/move-zeroes
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/move-zeroes  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---
 

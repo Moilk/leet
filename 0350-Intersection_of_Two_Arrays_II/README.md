@@ -29,8 +29,8 @@
 - 如果 nums1 的大小比 nums2 小很多，哪种方法更优？
 - 如果 nums2 的元素存储在磁盘上，磁盘内存是有限的，并且你不能一次加载所有的元素到内存中，你该怎么办？
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/intersection-of-two-arrays-ii
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/intersection-of-two-arrays-ii  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---

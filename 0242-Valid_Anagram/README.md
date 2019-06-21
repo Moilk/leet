@@ -24,8 +24,8 @@
 **进阶:**  
 如果输入字符串包含 unicode 字符怎么办？你能否调整你的解法来应对这种情况？
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/valid-anagram
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/valid-anagram  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---

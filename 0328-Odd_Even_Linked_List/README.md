@@ -25,8 +25,8 @@
 - 应当保持奇数节点和偶数节点的相对顺序。
 - 链表的第一个节点视为奇数节点，第二个节点视为偶数节点，以此类推。
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/odd-even-linked-list
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/odd-even-linked-list  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---

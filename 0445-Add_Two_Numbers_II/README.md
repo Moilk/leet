@@ -19,8 +19,8 @@
 &emsp;**输入:** `(7 -> 2 -> 4 -> 3) + (5 -> 6 -> 4)`  
 &emsp;**输出:** `7 -> 8 -> 0 -> 7`
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/add-two-numbers-ii
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/add-two-numbers-ii  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---

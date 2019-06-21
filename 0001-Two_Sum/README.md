@@ -17,8 +17,8 @@
 因为 `nums[0] + nums[1] = 2 + 7 = 9`
 所以返回 `[0, 1]`
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/contains-duplicate-ii
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/contains-duplicate-ii  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---

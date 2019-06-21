@@ -21,8 +21,8 @@
 &emsp;**解释:**  
 &emsp;两个回旋镖为 `[[1,0],[0,0],[2,0]]` 和 `[[1,0],[2,0],[0,0]]`
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/number-of-boomerangs
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/number-of-boomerangs  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---

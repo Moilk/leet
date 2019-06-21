@@ -25,9 +25,9 @@
 首先，迭代计算出0、1 和 2 元素的个数，然后按照0、1、2的排序，重写当前数组。
 - 你能想出一个仅使用常数空间的一趟扫描算法吗？
 
-> 来源：力扣（LeetCode）
-> 链接：https://leetcode-cn.com/problems/sort-colors
-> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+> 来源：力扣（LeetCode）  
+> 链接：https://leetcode-cn.com/problems/sort-colors  
+> 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。  
 
 ---
 
