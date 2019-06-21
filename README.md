@@ -2,10 +2,10 @@
 
 ![进度](https://img.shields.io/badge/进度-63/1031-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-28-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-28-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-7-d9534f.svg?style=flat)
 
+MY LEETCODE SOlUTION
+
 ```
-                                   /             
-        <====MY LEETCODE SOlUTION==[====|0       
-              _              _     \             
+              _              _                   
            \ | |    ___  ___| |_     .           
   ___________| |   / _ \/ _ \ __|____|_._._._._. 
   `——————————| |__|  __/  __/ |_ ————|—*—*—*—*—| 
