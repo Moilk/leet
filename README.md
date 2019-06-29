@@ -40,4 +40,9 @@
 
 ![难度](https://img.shields.io/badge/难度-困难-d9534f.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-xxx-violet.svg?style=flat)
 
+update: ⇪
+repair/modify: ↺
+finish: ✓
+delete: ✗
+backup: ☁
  -->
