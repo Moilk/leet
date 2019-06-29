@@ -7,6 +7,9 @@ class TreeNode {
     TreeNode(int x) { val = x; }
 }
 
+/**
+ * 递归算法
+ */
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> order = new LinkedList<>();
