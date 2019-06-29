@@ -1,6 +1,6 @@
 # 107. 二叉树的层次遍历 II
 
-![难度](https://img.shields.io/badge/难度-简单-5cb85c.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-队列-violet.svg?style=flat)
+![难度](https://img.shields.io/badge/难度-简单-5cb85c.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-二叉树-violet.svg?style=flat)
 
 ---
 
