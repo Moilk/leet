@@ -27,6 +27,7 @@
 | 栈 | [有效的括号](0020-Valid_Parentheses)、[逆波兰式表达式求值](0150-Evaluate_Reverse_Polish_Notation)、[路径简化](0071-Simplify_Path)、[扁平化嵌套列表迭代器](0341-Flatten_Nested_List_Iterator) |
 | 二叉树 | （二叉树的[前](0144-Binary_Tree_Preorder_Traversal)、[中](0094-Binary_Tree_Inorder_Traversal)、[后](0145-Binary_Tree_Postorder_Traversal)序、[层次](0102-Binary_Tree_Level_Order_Traversal)遍历）、[锯齿形遍历](0103-Binary_Tree_Zigzag_Level_Order_Traversal)、[自底向上的层次遍历](0107-Binary_Tree_Level_Order_Traversal_II)、[二叉树的右视图](0199-Binary_Tree_Right_Side_View)|
 | 动态规划 | [刚好填满的01背包](0416-Partition_Equal_Subset_Sum) |
+| 最短路径 | [完全平方数](0279-Perfect_Squares) |
 
   
 
