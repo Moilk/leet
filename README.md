@@ -26,7 +26,7 @@
 | 经典算法变形 | [三色分类](0075-Sort_Colors)、[合并有序数组](0088-Merge_Sorted_Array)、[数组第k大元素](0215-Kth_Largest_Element_in_an_Array)、[链表插排](0147-Insertion_Sort_List)、[链表O(nlogn)排序](0148-Sort_List) |
 | 栈 | [有效的括号](0020-Valid_Parentheses)、[逆波兰式表达式求值](0150-Evaluate_Reverse_Polish_Notation)、[路径简化](0071-Simplify_Path)、[扁平化嵌套列表迭代器](0341-Flatten_Nested_List_Iterator) |
 | 二叉树 | （二叉树的[前](0144-Binary_Tree_Preorder_Traversal)、[中](0094-Binary_Tree_Inorder_Traversal)、[后](0145-Binary_Tree_Postorder_Traversal)序、[层次](0102-Binary_Tree_Level_Order_Traversal)遍历）、[锯齿形遍历](0103-Binary_Tree_Zigzag_Level_Order_Traversal)、[自底向上的层次遍历](0107-Binary_Tree_Level_Order_Traversal_II)、[二叉树的右视图](0199-Binary_Tree_Right_Side_View)、[二叉树最大深度](0104-Maximum_Depth_of_Binary_Tree)、[二叉树最小深度](0111-Minimum_Depth_of_Binary_Tree)|
-| 动态规划 | [刚好填满的01背包](0416-Partition_Equal_Subset_Sum) |
+| 动态规划 | [刚好填满的01背包](0416-Partition_Equal_Subset_Sum)、[爬楼梯](0070-Climbing_Stairs)、[三角形最小路径和](0120-Triangle)、[最小路径和](0064-Minimum_Path_Sum) |
 | 最短路径 | [完全平方数](0279-Perfect_Squares) |
 
   
