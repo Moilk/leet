@@ -29,10 +29,6 @@
 | 动态规划 | [刚好填满的01背包](AC/0416-Partition_Equal_Subset_Sum)、[爬楼梯](AC/0070-Climbing_Stairs)、[三角形最小路径和](AC/0120-Triangle)、[最小路径和](AC/0064-Minimum_Path_Sum)、[整数拆分](AC/0343-Integer_Break) |
 | 最短路径 | [完全平方数](AC/0279-Perfect_Squares) |
 
-  
-
-✏️ 目录名开头“非0”表示“正在进行中...”。
-
 
 <!-- 
 
