@@ -1,6 +1,6 @@
 # 100. 相同的树
 
-![难度](https://img.shields.io/badge/难度-简单-5cb85c.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-二叉树-violet.svg?style=flat)
+![难度](https://img.shields.io/badge/难度-简单-5cb85c.svg?logo=leetcode&style=flat)  ![类型](https://img.shields.io/badge/类型-二叉树,递归-violet.svg?style=flat)
 
 ---
 
