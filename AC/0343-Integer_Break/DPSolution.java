@@ -1,3 +1,4 @@
+// 动态规划
 class Solution {
     public int integerBreak(int n) {
         int[] dp = new int[n + 1];
