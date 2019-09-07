@@ -1,6 +1,6 @@
 # LeetCode
 
-![进度](https://img.shields.io/badge/进度-107/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-40-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-54-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-13-d9534f.svg?style=flat)
+![进度](https://img.shields.io/badge/进度-108/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-40-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-55-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-13-d9534f.svg?style=flat)
 
 刷题走起~
 
@@ -28,7 +28,7 @@
 | 单调栈 | [柱状图中最大的矩形](AC/0084-Largest_Rectangle_in_Histogram)、[最大矩形](AC/0085-Maximal_Rectangle) |
 | 二叉树 | （二叉树的[前](AC/0144-Binary_Tree_Preorder_Traversal)、[中](AC/0094-Binary_Tree_Inorder_Traversal)、[后](AC/0145-Binary_Tree_Postorder_Traversal)序、[层次](AC/0102-Binary_Tree_Level_Order_Traversal)遍历）、[锯齿形遍历](AC/0103-Binary_Tree_Zigzag_Level_Order_Traversal)、[自底向上的层次遍历](AC/0107-Binary_Tree_Level_Order_Traversal_II)、[二叉树的右视图](AC/0199-Binary_Tree_Right_Side_View)、[二叉树最大深度](AC/0104-Maximum_Depth_of_Binary_Tree)、[二叉树最小深度](AC/0111-Minimum_Depth_of_Binary_Tree)、[相同的树](AC/0100-Same_Tree)、[对称二叉树](AC/0101-Symmetric_Tree)、[平衡二叉树](AC/0110-Balanced_Binary_Tree)、[路径总和](AC/0112-Path_Sum) |
 | 动态规划 | [刚好填满的01背包](AC/0416-Partition_Equal_Subset_Sum)、[爬楼梯](AC/0070-Climbing_Stairs)、[三角形最小路径和](AC/0120-Triangle)、[最小路径和](AC/0064-Minimum_Path_Sum)、[整数拆分](AC/0343-Integer_Break)、[解码方法](AC/0091-Decode_Ways)、[不同路径 ](AC/0062-Unique_Paths)、[不同路径 II](AC/0063-Unique_Paths_II)、打家劫舍之[直线型](AC/0198-House_Robber)、[环形](AC/0213-House_Robber_II)、[二叉树型](AC/0337-House_Robber_III)、[最佳买卖股票时机含冷冻期](AC/0309-Best_Time_to_Buy_and_Sell_Stock_with_Cooldown)、[最长上升子序列](AC/0300-Longest_Increasing_Subsequence)、[俄罗斯套娃信封问题](AC/0354-Russian_Doll_Envelopes)、[学生出勤记录 II](AC/0552-Student_Attendance_Record_II) |
-| 最短路径 | [完全平方数](AC/0279-Perfect_Squares) |
+| 最短路径 | [完全平方数](AC/0279-Perfect_Squares)、[零钱兑换](AC/0322-Coin_Change) |
 | 图 | [克隆图](AC/0133-Clone_Graph) |
 | 其它 | [LRU](AC/0146-LRU_Cache) |
 
