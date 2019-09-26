@@ -31,6 +31,7 @@
 | 动态规划 | [刚好填满的01背包](AC/0416-Partition_Equal_Subset_Sum)、[爬楼梯](AC/0070-Climbing_Stairs)、[三角形最小路径和](AC/0120-Triangle)、[最小路径和](AC/0064-Minimum_Path_Sum)、[整数拆分](AC/0343-Integer_Break)、[解码方法](AC/0091-Decode_Ways)、[不同路径 ](AC/0062-Unique_Paths)、[不同路径 II](AC/0063-Unique_Paths_II)、打家劫舍之[直线型](AC/0198-House_Robber)、[环形](AC/0213-House_Robber_II)、[二叉树型](AC/0337-House_Robber_III)、[最佳买卖股票时机含冷冻期](AC/0309-Best_Time_to_Buy_and_Sell_Stock_with_Cooldown)、[最长上升子序列](AC/0300-Longest_Increasing_Subsequence)、[俄罗斯套娃信封问题](AC/0354-Russian_Doll_Envelopes)、[学生出勤记录 II](AC/0552-Student_Attendance_Record_II)、[零钱兑换](AC/0322-Coin_Change) |
 | 最短路径 | [完全平方数](AC/0279-Perfect_Squares) |
 | 图 | [克隆图](AC/0133-Clone_Graph) |
+| 多线程 | [按序打印](AC/1114-Print_in_Order)、[打印零与奇偶数](AC/1116-Print_Zero_Even_Odd) |
 | 其它 | [LRU](AC/0146-LRU_Cache) |
 
 
