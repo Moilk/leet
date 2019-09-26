@@ -1,6 +1,6 @@
 # LeetCode
 
-![进度](https://img.shields.io/badge/进度-108/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-40-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-55-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-13-d9534f.svg?style=flat)
+![进度](https://img.shields.io/badge/进度-109/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-40-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-56-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-13-d9534f.svg?style=flat)
 
 刷题走起~
 
@@ -20,6 +20,7 @@
 | 数组 | [移动零](AC/0283-Move_Zeroes)、[删除排序数组中的重复项](AC/0026-Remove_Duplicates_from_Sorted_Array)、[移除元素](AC/0027-Remove_Element)、[删除排序数组中的重复项 II](AC/0080-Remove_Duplicates_from_Sorted_Array_II)、[下一个更大元素 III](AC/0556-Next_Greater_Element_III) |
 | 指针对撞 | [两数之和(有序数组)](AC/0167-Two_Sum_II_-_Input_array_is_sorted)、[验证回文串](AC/0125-Valid_Palindrome)、[反转字符串](AC/0344-Reverse_String)、[反转字符串中的元音字母](AC/0345-Reverse_Vowels_of_a_String)、[盛最多水的容器](AC/0011-Container_With_Most_Water)、[重排链表](AC/0143-Reorder_List)、[回文链表](AC/0234-Palindrome_Linked_List) |
 | 滑动窗口 | [无重复字符的最长子串](AC/0003-Longest_Substring_Without_Repeating_Characters)、[长度最小的子数组](AC/0209-Minimum_Size_Subarray_Sum)、[所有字母异位词](AC/0438-Find_All_Anagrams_in_a_String)、[最小覆盖子串](AC/0076-Minimum_Window_Substring) |
+| 回溯法 | [电话号码的字母组合](AC/0017-Letter_Combinations_of_a_Phone_Number) |
 | set/map | [两数之和(无序数组)](AC/0001-Two_Sum)、[两个数组的交集](AC/0349-Intersection_of_Two_Arrays)、[两个数组的交集 II](AC/0350-Intersection_of_Two_Arrays_II)、[有效的字母异位词](AC/0242-Valid_Anagram)、[快乐数](AC/0202-Happy_Number)、[单词规律](AC/0290-Word_Pattern)、[构字符串](AC/0205-Isomorphic_Strings)、[根据字符出现频率排序](AC/0451-Sort_Characters_By_Frequency)、[三数之和](AC/0015-3Sum)、[四数之和](AC/0018-4Sum)、[最接近的三数之和](AC/0016-3Sum_Closest)、[四数之和 II](AC/0454-4Sum_II)、[字母异位词分组](AC/0049-Group_Anagrams) |
 | set/map+滑动窗口 | [回旋镖的数量](AC/0447-Number_of_Boomerangs)、[直线上最多的点数](AC/0149-Max_Points_on_a_Line) |
 | 链表 | [两数相加](AC/0002-Add_Two_Numbers)、[反转链表](AC/0206-Reverse_Linked_List)、[反转链表局部](AC/0092-Reverse_Linked_List_II)、[移除有序链表重复元素(留1)](AC/0083-Remove_Duplicates_from_Sorted_List)、[链表Partition](AC/0086-Partition_List)、[奇偶链表](AC/0328-Odd_Even_Linked_List)、[两数相加-逆序](AC/0445-Add_Two_Numbers_II)、[移除链表元素](AC/0203-Remove_Linked_List_Elements)、[移除有序链表重复元素(全删)](AC/82-Remove_Duplicates_from_Sorted_List_II)、[合并有序链表](AC/0021-Merge_Two_Sorted_Lists)、[链表两两交换](AC/0024-Swap_Nodes_in_Pairs)、[链表k个一组翻转](AC/0025-Reverse_Nodes_in_k-Group)、[链表插排](AC/0147-Insertion_Sort_List)、[删除链表节点](AC/0237-Delete_Node_in_a_Linked_List)、[删除链表倒数第n个数](AC/0019-Remove_Nth_Node_From_End_of_List)、[旋转链表](AC/0061-Rotate_List)、[重排链表](AC/0143-Reorder_List)、[回文链表](AC/0234-Palindrome_Linked_List) |
