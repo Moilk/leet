@@ -1,6 +1,6 @@
 # LeetCode
 
-![进度](https://img.shields.io/badge/进度-110/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-40-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-57-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-13-d9534f.svg?style=flat)
+![进度](https://img.shields.io/badge/进度-111/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-40-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-58-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-13-d9534f.svg?style=flat)
 
 刷题走起~
 
@@ -17,7 +17,7 @@
 
 | 类型 | 题号 |
 | :--: | :-- |
-| 数组 | [移动零](AC/0283-Move_Zeroes)、[删除排序数组中的重复项](AC/0026-Remove_Duplicates_from_Sorted_Array)、[移除元素](AC/0027-Remove_Element)、[删除排序数组中的重复项 II](AC/0080-Remove_Duplicates_from_Sorted_Array_II)、[下一个更大元素 III](AC/0556-Next_Greater_Element_III) |
+| 数组 | [移动零](AC/0283-Move_Zeroes)、[删除排序数组中的重复项](AC/0026-Remove_Duplicates_from_Sorted_Array)、[移除元素](AC/0027-Remove_Element)、[删除排序数组中的重复项 II](AC/0080-Remove_Duplicates_from_Sorted_Array_II)、[下一个更大元素 III](AC/0556-Next_Greater_Element_III)、[下一个排列](AC/0031-Next_Permutation) |
 | 指针对撞 | [两数之和(有序数组)](AC/0167-Two_Sum_II_-_Input_array_is_sorted)、[验证回文串](AC/0125-Valid_Palindrome)、[反转字符串](AC/0344-Reverse_String)、[反转字符串中的元音字母](AC/0345-Reverse_Vowels_of_a_String)、[盛最多水的容器](AC/0011-Container_With_Most_Water)、[重排链表](AC/0143-Reorder_List)、[回文链表](AC/0234-Palindrome_Linked_List) |
 | 滑动窗口 | [无重复字符的最长子串](AC/0003-Longest_Substring_Without_Repeating_Characters)、[长度最小的子数组](AC/0209-Minimum_Size_Subarray_Sum)、[所有字母异位词](AC/0438-Find_All_Anagrams_in_a_String)、[最小覆盖子串](AC/0076-Minimum_Window_Substring) |
 | 回溯法 | [电话号码的字母组合](AC/0017-Letter_Combinations_of_a_Phone_Number)、[括号生成](AC/0022-Generate_Parentheses) |
