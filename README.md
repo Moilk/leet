@@ -1,6 +1,6 @@
 # LeetCode
 
-![进度](https://img.shields.io/badge/进度-114/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-41-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-60-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-13-d9534f.svg?style=flat)
+![进度](https://img.shields.io/badge/进度-115/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-41-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-61-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-13-d9534f.svg?style=flat)
 
 刷题走起~
 
@@ -33,7 +33,7 @@
 | 图 | [克隆图](AC/0133-Clone_Graph) |
 | 多线程 | [按序打印](AC/1114-Print_in_Order)、[打印零与奇偶数](AC/1116-Print_Zero_Even_Odd) |
 | 规律题 | [Z 字形变换](AC/0006-ZigZag_Conversion) |
-| 数学 | [整数反转](AC/0007-Reverse_Integer) |
+| 数学 | [整数反转](AC/0007-Reverse_Integer)、[字符串转整数](AC/0008-String_to_Integer_atoi) |
 | 其它 | [LRU](AC/0146-LRU_Cache) |
 
 
