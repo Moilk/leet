@@ -1,6 +1,6 @@
 # LeetCode
 
-![进度](https://img.shields.io/badge/进度-116/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-42-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-61-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-13-d9534f.svg?style=flat)
+![进度](https://img.shields.io/badge/进度-115/1126-337ab7.svg?logo=leetcode&style=flat)  ![简单](https://img.shields.io/badge/简单-40-5cb85c.svg?style=flat)  ![中等](https://img.shields.io/badge/中等-63-f0ad4e.svg?style=flat)  ![困难](https://img.shields.io/badge/困难-12-d9534f.svg?style=flat)
 
 刷题走起~
 
